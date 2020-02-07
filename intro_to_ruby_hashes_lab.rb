@@ -32,6 +32,7 @@ def monopoly_with_third_tier
 				:key3 => "Three",
 				:key4 => "Four"
 			}
+      :names => "Pennsylvania"
 		}
 	}
 end
